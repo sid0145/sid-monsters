@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sid-monsters/static/css/main.e8f59910.chunk.css",
+    "main.js": "/sid-monsters/static/js/main.270fc62e.chunk.js",
+    "main.js.map": "/sid-monsters/static/js/main.270fc62e.chunk.js.map",
+    "runtime-main.js": "/sid-monsters/static/js/runtime-main.948cf741.js",
+    "runtime-main.js.map": "/sid-monsters/static/js/runtime-main.948cf741.js.map",
+    "static/js/2.722cd26d.chunk.js": "/sid-monsters/static/js/2.722cd26d.chunk.js",
+    "static/js/2.722cd26d.chunk.js.map": "/sid-monsters/static/js/2.722cd26d.chunk.js.map",
+    "index.html": "/sid-monsters/index.html",
+    "precache-manifest.4c8f55868903661220d9d4b707d3f948.js": "/sid-monsters/precache-manifest.4c8f55868903661220d9d4b707d3f948.js",
+    "service-worker.js": "/sid-monsters/service-worker.js",
+    "static/css/main.e8f59910.chunk.css.map": "/sid-monsters/static/css/main.e8f59910.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948cf741.js",
+    "static/js/2.722cd26d.chunk.js",
+    "static/css/main.e8f59910.chunk.css",
+    "static/js/main.270fc62e.chunk.js"
+  ]
+}
